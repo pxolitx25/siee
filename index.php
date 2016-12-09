@@ -16,5 +16,8 @@ and open the template in the editor.
         <table class="table">
             Hola sigo programando
         </table>
+        <table class="table">
+         practricando
+        </table>
     </body>
 </html>
