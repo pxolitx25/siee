@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Hola Mundo!!!!";
+            echo "Hola Mundo esta es verion mejorada!!!!";
         ?>
+        <table class="table">
+            Hola sigo programando
+        </table>
     </body>
 </html>
